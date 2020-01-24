@@ -1,5 +1,5 @@
 --[[
-    Do all the changes in data-final-fixes.lua, in case other mods have modified the technologies
+    Do all the changes in data-final-fixes.lua, in case other mods have modified the assemblers
 
     1. Add "input throughput" pipes on N/S plane
     2. Add "output throughput" pipes on E/W plane

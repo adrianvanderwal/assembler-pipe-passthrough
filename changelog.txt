@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 2020-01-24
+  Changes:
+    - Updated to Factorio version 0.18.0
+    - Reduced optional dependancies
+  Bugfixes:
+    - Added compatibility for BoreHole
+---------------------------------------------------------------------------------------------------
 Version: 0.1.6
 Date: 2019-12-24
   Bugfixes:
