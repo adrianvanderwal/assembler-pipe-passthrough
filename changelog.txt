@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+Date: 2020-02-15
+  Changes:
+    - Removed APP side compatibility for Bio Industries as Pi-C has included all BI compatibility requirements in the last release of BI
+---------------------------------------------------------------------------------------------------
 Version: 0.1.7
 Date: 2020-01-24
   Changes:

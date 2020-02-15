@@ -12,8 +12,6 @@ if mods['angelssmelting'] then require('integrations/angelssmelting') end
 
 if mods['AquiferDrill'] then require('integrations/AquiferDrill') end
 
-if mods['Bio_Industries'] then require('integrations/Bio_Industries') end
-
 if mods['bobassembly'] then require('integrations/bobassembly') end
 if mods['bobplates'] then require('integrations/bobplates') end
 
