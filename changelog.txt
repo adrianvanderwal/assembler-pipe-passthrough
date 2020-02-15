@@ -1,4 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+Date: 2020-02-15
+  Changes:
+    - Removed APP side compatibility for Bio Industries as Pi-C has included all BI compatibility requirements in the last release of BI
+---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 2020-01-24
+  Changes:
+    - Updated to Factorio version 0.18.0
+    - Reduced optional dependancies
+  Bugfixes:
+    - Added compatibility for BoreHole
+---------------------------------------------------------------------------------------------------
 Version: 0.1.6
 Date: 2019-12-24
   Bugfixes:

@@ -12,10 +12,10 @@ if mods['angelssmelting'] then require('integrations/angelssmelting') end
 
 if mods['AquiferDrill'] then require('integrations/AquiferDrill') end
 
-if mods['Bio_Industries'] then require('integrations/Bio_Industries') end
-
 if mods['bobassembly'] then require('integrations/bobassembly') end
 if mods['bobplates'] then require('integrations/bobplates') end
+
+if mods['BoreHole'] then require('integrations/BoreHole') end
 
 if mods['CW-hydrogen-power'] then require('integrations/CW-hydrogen-power') end
 
@@ -25,7 +25,7 @@ if mods['NPUtils'] then require('integrations/NPUtils') end
 
 if mods['omnimatter'] then require('integrations/omnimatter') end
 
-if mods['Power_to_Fluid_updated'] then require('integrations/Power_to_Fluid_updated') end
+if mods['Power_to_Liquid_Updated'] then require('integrations/Power_to_Liquid_Updated') end
 
 if mods['reverse-factory'] then require('integrations/reverse-factory') end
 
