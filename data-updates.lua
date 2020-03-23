@@ -21,6 +21,8 @@ if mods['CW-hydrogen-power'] then require('integrations/CW-hydrogen-power') end
 
 if mods['expanded-rocket-payloads'] then require('integrations/expanded-rocket-payloads') end
 
+if mods['Mining_Drones'] then require('integrations/Mining_Drones') end
+
 if mods['NPUtils'] then require('integrations/NPUtils') end
 
 if mods['omnimatter'] then require('integrations/omnimatter') end
