@@ -7,6 +7,8 @@ appmod.blacklist['assembling-machine-3'] = not settings.startup['app_assembling_
 appmod.blacklist['oil-refinery'] = not settings.startup['app_oil_refineries'].value
 appmod.blacklist['chemical-plant'] = not settings.startup['app_chemical_plants'].value
 
+if mods['aai-industry'] then require('integrations/aai-industry') end
+
 if mods['angelsbioprocessing'] then require('integrations/angelsbioprocessing') end
 if mods['angelssmelting'] then require('integrations/angelssmelting') end
 
@@ -34,3 +36,6 @@ if mods['reverse-factory'] then require('integrations/reverse-factory') end
 if mods['space-exploration'] then require('integrations/space-exploration') end
 
 if mods['trainConstructionSite'] then require('integrations/trainConstructionSite') end
+
+if mods['yi_engines'] then require('integrations/yi_engines') end
+if mods['Yuoki'] then require('integrations/Yuoki') end

@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.11
+Date: 2020-03-27
+  Changes:
+    - Added compatibility for aai-industry
+    - Added compatibility for Youki Industries and yi_engines
+---------------------------------------------------------------------------------------------------
 Version: 0.1.10
 Date: 2020-03-23
   Changes:
