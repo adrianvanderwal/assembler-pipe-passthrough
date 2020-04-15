@@ -11,6 +11,7 @@ if mods['aai-industry'] then require('integrations/aai-industry') end
 
 if mods['angelsbioprocessing'] then require('integrations/angelsbioprocessing') end
 if mods['angelssmelting'] then require('integrations/angelssmelting') end
+if mods['angelspetrochem'] then require('integrations/angelspetrochem') end
 
 if mods['AquiferDrill'] then require('integrations/AquiferDrill') end
 
@@ -22,6 +23,8 @@ if mods['BoreHole'] then require('integrations/BoreHole') end
 if mods['CW-hydrogen-power'] then require('integrations/CW-hydrogen-power') end
 
 if mods['expanded-rocket-payloads'] then require('integrations/expanded-rocket-payloads') end
+
+if mods['Load-Furn'] then require('integrations/Load-Furn') end
 
 if mods['Mining_Drones'] then require('integrations/Mining_Drones') end
 

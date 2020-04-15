@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.12
+Date: 2020-04-15
+  Changes:
+    - Added compatibility for angelspetrochem
+    - Added compatibility for Advanced Furnaces (Load-Furn)
+---------------------------------------------------------------------------------------------------
 Version: 0.1.11
 Date: 2020-03-27
   Changes:
