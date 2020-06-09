@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.13
+Date: 2020-06-09
+  Changes:
+    - Added compatibility for Tranport_Drones
+    - Added compatibility for Deep_Storage_Unit (Thanks Luzifer Senpai#0001)
+---------------------------------------------------------------------------------------------------
 Version: 0.1.12
 Date: 2020-04-15
   Changes:
