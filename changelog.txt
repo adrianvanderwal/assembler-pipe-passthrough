@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.14
+Date: 2020-06-10
+  Changes:
+    - Adjusted base_area to stop single fluid recipe chemical plants from having a large storage volume
+---------------------------------------------------------------------------------------------------
 Version: 0.1.13
 Date: 2020-06-09
   Changes:
