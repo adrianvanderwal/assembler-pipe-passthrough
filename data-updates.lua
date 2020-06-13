@@ -84,6 +84,10 @@ if mods['transport_drones'] then
   require('integrations/transport_drones')
 end
 
+if mods['whistlestopfactories'] then
+  require('integrations/whistlestopfactories')
+end
+
 if mods['yi_engines'] then
   require('integrations/yi_engines')
 end
