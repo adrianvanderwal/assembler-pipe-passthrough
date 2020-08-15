@@ -7,9 +7,6 @@
 for j_index, j in pairs(data.raw['assembling-machine']) do
   if j.fluid_boxes and not appmod.blacklist[j.name] then
     log('Adding fluid boxes to ' .. j.name)
-    if (j.name == 'chemical-plant' or j.name == 'oil-refinery') then
-      log(serpent.block(data.raw['assembling-machine'][j.name].fluid_boxes))
-    end
     for pipe_index, pipe in ipairs(j.fluid_boxes) do -- ipairs because array with a boolean on the end
       local connections_to_add = {}
       if pipe.production_type == 'input' then
@@ -55,9 +52,6 @@ for j_index, j in pairs(data.raw['assembling-machine']) do
       for _, to_add in pairs(connections_to_add) do
         table.insert(data.raw['assembling-machine'][j.name].fluid_boxes[pipe_index].pipe_connections, to_add)
       end
-    end
-    if (j.name == 'chemical-plant' or j.name == 'oil-refinery') then
-      log(serpent.block(data.raw['assembling-machine'][j.name].fluid_boxes))
     end
   end
 end
