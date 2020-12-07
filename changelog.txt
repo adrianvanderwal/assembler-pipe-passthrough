@@ -1,4 +1,66 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2020-11-24
+  Changes:
+    - Updated to Factorio Version 1.1
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2020-08-15
+  Changes:
+    - Updated to Factorio Version 1.0
+    - Removed redundant logging
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.17
+Date: 2020-07-06
+  Changes:
+    - Added compatibility for Geothermal
+---------------------------------------------------------------------------------------------------
+Version: 0.1.16
+Date: 2020-06-13
+  Changes:
+    - Added compatibility for WhistleStopFactories
+---------------------------------------------------------------------------------------------------
+Version: 0.1.15
+Date: 2020-06-11
+  Changes:
+    - Added German translation (Thanks Vort3x)
+  Bugfixes:
+    - Fixed Polish translation file location
+---------------------------------------------------------------------------------------------------
+Version: 0.1.14
+Date: 2020-06-10
+  Changes:
+    - Adjusted base_area to stop single fluid recipe chemical plants from having a large storage volume
+---------------------------------------------------------------------------------------------------
+Version: 0.1.13
+Date: 2020-06-09
+  Changes:
+    - Added compatibility for Tranport_Drones
+    - Added compatibility for Deep_Storage_Unit (Thanks Luzifer Senpai#0001)
+---------------------------------------------------------------------------------------------------
+Version: 0.1.12
+Date: 2020-04-15
+  Changes:
+    - Added compatibility for angelspetrochem
+    - Added compatibility for Advanced Furnaces (Load-Furn)
+---------------------------------------------------------------------------------------------------
+Version: 0.1.11
+Date: 2020-03-27
+  Changes:
+    - Added compatibility for aai-industry
+    - Added compatibility for Youki Industries and yi_engines
+---------------------------------------------------------------------------------------------------
+Version: 0.1.10
+Date: 2020-03-23
+  Changes:
+    - Added compatibility for Mining_Drones
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 2020-02-17
+  Changes:
+    - Added Polish Locale (Thanks Tomirad)
+---------------------------------------------------------------------------------------------------
 Version: 0.1.8
 Date: 2020-02-15
   Changes:
