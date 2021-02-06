@@ -1,6 +1,6 @@
 {
   "name": "assembler-pipe-passthrough",
-  "version": "0.2.0",
+  "version": "2021.02.06",
   "date": "2019-04-11",
   "title": "Assembler Pipe Passthrough",
   "author": "EnigmaticAussie",
@@ -8,6 +8,6 @@
     "base >= 1.0.0",
     "!omnimatter_fluid >= 3.0.0"
   ],
-  "description": "Adds more pipe connections to allow assemblers to pass through fluids, like electric miners.",
+  "description": "Adds more pipe connections to allow assemblers, chemical plants and refineries to pass through fluids, like electric miners do.",
   "factorio_version": "1.1"
 }
