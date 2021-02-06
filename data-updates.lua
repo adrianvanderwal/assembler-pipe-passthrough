@@ -56,6 +56,10 @@ if mods['Load-Furn'] then
   require('integrations/Load-Furn')
 end
 
+if mods['IndustrialRevolution'] then
+  require('integrations/IndustrialRevolution')
+end
+
 if mods['Mining_Drones'] then
   require('integrations/Mining_Drones')
 end
