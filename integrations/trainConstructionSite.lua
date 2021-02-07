@@ -1,1 +1,1 @@
-appmod.blacklist["trainassembly-machine"] = true
+appmod.blacklist['trainassembly-machine'] = true

@@ -1,1 +1,1 @@
-appmod.blacklist["blue-crude-plant"] = true
+appmod.blacklist['blue-crude-plant'] = true

@@ -18,3 +18,4 @@ appmod.blacklist['se-space-electromagnetics-laboratory'] = true
 appmod.blacklist['se-space-hypercooler'] = true
 appmod.blacklist['se-space-manufactory'] = true
 appmod.blacklist['se-space-plasma-generator'] = true
+appmod.blacklist['se-energy-transmitter-injector'] = true
