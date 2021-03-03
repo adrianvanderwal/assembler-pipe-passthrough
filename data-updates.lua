@@ -48,6 +48,10 @@ if mods['expanded-rocket-payloads'] then
   require('integrations/expanded-rocket-payloads')
 end
 
+if mods['Factorio-Tiberium'] then
+  require('integrations/Factorio-Tiberium')
+end
+
 if mods['Geothermal'] then
   require('integrations/Geothermal')
 end
